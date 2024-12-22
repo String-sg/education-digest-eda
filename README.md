@@ -5,6 +5,7 @@ Overview
 1. MOE Education Statistics Digest 2024
 2. MOE Education Statistics Digest 2023
 3. MOE Education Statistics Digest 2022
+4. MOE Education Statistics Digest 2012
 
 Other data sources
 [SINDA](https://issuu.com/mysinda)
