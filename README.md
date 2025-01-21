@@ -12,4 +12,5 @@ Other data sources
 - MOE Education Digest from 2018 to present; SINDA annual report, financial statements
 
 1.21
-- Added 2013 Digest of Educational Statistics by National Centre of Educational Statistics 
+- Added 2013 Digest of Educational Statistics by National Centre of Educational Statistics
+- Added 2014 Singapore Cultural Statistics
